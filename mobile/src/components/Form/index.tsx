@@ -23,11 +23,12 @@ export function Form({ feedbackType }: Props) {
             weight="bold"
             color={theme.colors.text_secondary}
           />
-          <View style={styles.titleContainer}>
-            <Image source={feedbackTypeInfo.image} />
-            <Text style={styles.titleText}>{feedbackTypeInfo.title}</Text>
-          </View>
         </TouchableOpacity>
+
+        <View style={styles.titleContainer}>
+          <Image style={styles.image} source={feedbackTypeInfo.image} />
+          <Text style={styles.titleText}>teste</Text>
+        </View>
       </View>
     </View>
   );
