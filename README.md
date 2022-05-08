@@ -2,10 +2,6 @@
   <img alt="GitHub" src="https://user-images.githubusercontent.com/60992933/167317433-a3d4653e-a912-45b1-b0cf-03bc545c6ca5.png">
 </p>
 
-## Imagens
-
-<Img src="https://user-images.githubusercontent.com/60992933/167317490-21f0efc0-4241-4e98-9b5b-e762a1c46791.png">
-
 <p align="center">
   <a href="#-layout">Layout</a> •
   <a href="#-technologies">Technologies</a> •
@@ -14,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Feedget Mockup" src=".github/mockup.png" width="100%">
+  <img alt="Feedget Mockup" src="https://user-images.githubusercontent.com/60992933/167317490-21f0efc0-4241-4e98-9b5b-e762a1c46791.png" width="100%">
 </p>
 
 ## 🔖 Layout
