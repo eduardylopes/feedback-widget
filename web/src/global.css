@@ -5,4 +5,8 @@
 body {
   @apply text-zinc-100;
   @apply bg-[url(./assets/ace.jpg)];
+  @apply bg-no-repeat;
+  @apply bg-auto;
+  @apply w-screen;
+  @apply h-screen;
 }
