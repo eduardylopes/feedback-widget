@@ -5,11 +5,6 @@
 ## Imagens
 
 <Img src="https://user-images.githubusercontent.com/60992933/167317490-21f0efc0-4241-4e98-9b5b-e762a1c46791.png">
-<div style={display: flex}>
-  <Img src="https://user-images.githubusercontent.com/60992933/167317487-f174564b-0681-4f6f-be34-3ba386dd53e3.png">
-  <Img src="https://user-images.githubusercontent.com/60992933/167317488-101c2630-5942-4d74-bde9-ac05247a81cf.png">
-  <Img src="https://user-images.githubusercontent.com/60992933/167317489-e385a3ca-c539-4c10-a11e-c5e55efb620d.png">
-</div>
 
 <p align="center">
   <a href="#-layout">Layout</a> •
