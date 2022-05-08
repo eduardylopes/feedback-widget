@@ -22,8 +22,6 @@ export default function ScreenshotButton({
 
     onScreenShotTook(base64image);
 
-    console.log(base64image);
-
     setIsTakingScreenshot(false);
   }
 
