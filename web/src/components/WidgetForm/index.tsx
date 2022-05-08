@@ -17,7 +17,7 @@ export const feedbackTypes = {
       'Algo não está funcionando bem? Queremos corrigir. Conte com detalhes o que está acontecendo...',
   },
   IDEA: {
-    title: 'Idea',
+    title: 'Ideia',
     image: {
       source: ideaImageUrl,
       alt: 'Imagem de uma lâmpada',
