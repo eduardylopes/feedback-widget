@@ -13,6 +13,8 @@ export const feedbackTypes = {
       source: bugImageUrl,
       alt: 'Imagem de um inseto',
     },
+    placeholder:
+      'Algo não está funcionando bem? Queremos corrigir. Conte com detalhes o que está acontecendo...',
   },
   IDEA: {
     title: 'Idea',
@@ -20,6 +22,7 @@ export const feedbackTypes = {
       source: ideaImageUrl,
       alt: 'Imagem de uma lâmpada',
     },
+    placeholder: 'Estamos abertos a novas ideias!',
   },
   OTHER: {
     title: 'Outro',
@@ -27,6 +30,7 @@ export const feedbackTypes = {
       source: thoughtImageUrl,
       alt: 'Imagem de um balão de pensamento',
     },
+    placeholder: 'O que gostaria de fazer?',
   },
 };
 

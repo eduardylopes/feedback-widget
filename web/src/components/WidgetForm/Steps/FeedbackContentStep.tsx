@@ -64,7 +64,7 @@ export default function FeedbackContentStep({
           value={comment}
           onChange={(e) => setComment(e.target.value)}
           className="min-w-[304px] w-full min-h-[112px] text-sm placeholder-zinc-400 text-zinc-100 border-zinc-600 bg-transparent rounded-md px-2 py-3 focus:border-brand-500 focus:ring-brand-500 focus:ring-1 resize-none focus:outline-none scrollbar-thumb-zinc-700 scrollbar-track-transparent scrollbar-thin scrollbar-thumb-rounded"
-          placeholder="Algo não está funcionando bem? Queremos corrigir. Conte com detalhes o que está acontecendo..."
+          placeholder={feedbackTypeInfo.placeholder}
         />
 
         <footer className="flex gap-2 mt-2">

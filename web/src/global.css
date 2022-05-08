@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#09090A] text-zinc-100;
-  background-image: url(./assets/ace.jpg);
+  @apply text-zinc-100;
+  @apply bg-[url(./assets/ace.jpg)];
 }
