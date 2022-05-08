@@ -16,7 +16,6 @@ export default function FeedbackTypeStep({
         <CloseButton />
       </header>
 
-      <p>Hello World</p>
       <div className="flex py-8 gap-2 w-full">
         {Object.entries(feedbackTypes).map(([key, value]) => (
           <button
@@ -25,7 +24,7 @@ export default function FeedbackTypeStep({
             onClick={() => onFeedbackTypeChanged(key as FeedbackType)}
             type="button"
           >
-            <img src={value.image.source} alt={value.image.alt} />
+            <img src={value.image.source} alt={value.image.alt} className="w" />
             <span>{value.title}</span>
           </button>
         ))}
