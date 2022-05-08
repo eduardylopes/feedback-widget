@@ -4,9 +4,9 @@
 
 body {
   @apply text-zinc-100;
-  @apply bg-[url(./assets/ace.jpg)];
+  @apply bg-[url(./assets/home-background.jpg)];
   @apply bg-no-repeat;
-  @apply bg-auto;
+  @apply bg-cover;
   @apply w-screen;
   @apply h-screen;
 }
